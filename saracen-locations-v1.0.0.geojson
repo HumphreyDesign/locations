@@ -7088,26 +7088,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.4574,
-          54.3864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "horse-rider",
-      "properties": {
-        "name": "Horse & Rider",
-        "area": "Northern Region",
-        "postcode": "IM4 3AD",
-        "phone": "01624801737",
-        "website": "https://www.horseandriderequestrianretailer.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.6352,
-          54.2081
+          54.15465056,
+          -4.505138258
         ]
       }
     },
