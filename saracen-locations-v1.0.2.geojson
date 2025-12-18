@@ -1,57 +1,4 @@
-{
-  "type": "Feature",
-  "id": "rotherham-pet-supplies",
-  "properties": {
-    "name": "Rotherham Pet Supplies",
-    "area": "Northern Region",
-    "postcode": "S61 4RQ",
-    "phone": "01709252256",
-    "website": "https://www.rotherhampetsupplies.co.uk/"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -1.356683,
-      53.442397
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "equi-flora",
-  "properties": {
-    "name": "Equi-Flora",
-    "area": "Northern Region",
-    "postcode": "DN3 3RX",
-    "phone": "",
-    "website": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -1.045908,
-      53.524635
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "the-riding-habit",
-  "properties": {
-    "name": "The Riding Habit",
-    "area": "Northern Region",
-    "postcode": "BD13 1HR",
-    "phone": "01274816328",
-    "website": ""
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      -1.839244,
-      53.775328
-    ]
-  }
-},
+
 {
   "type": "FeatureCollection",
   "features": [
@@ -15948,6 +15895,60 @@
           51.931865
         ]
       }
-    }
+    },
+    {
+  "type": "Feature",
+  "id": "rotherham-pet-supplies",
+  "properties": {
+    "name": "Rotherham Pet Supplies",
+    "area": "Northern Region",
+    "postcode": "S61 4RQ",
+    "phone": "01709252256",
+    "website": "https://www.rotherhampetsupplies.co.uk/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.356683,
+      53.442397
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "equi-flora",
+  "properties": {
+    "name": "Equi-Flora",
+    "area": "Northern Region",
+    "postcode": "DN3 3RX",
+    "phone": "",
+    "website": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.045908,
+      53.524635
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "the-riding-habit",
+  "properties": {
+    "name": "The Riding Habit",
+    "area": "Northern Region",
+    "postcode": "BD13 1HR",
+    "phone": "01274816328",
+    "website": ""
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -1.839244,
+      53.775328
+    ]
+  }
+}
   ]
 }
