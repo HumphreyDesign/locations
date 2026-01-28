@@ -15949,6 +15949,24 @@
       53.775328
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "capard-equestrian",
+  "properties": {
+    "name": "Capard Equestrian",
+    "area": "South West",
+    "postcode": "",
+    "phone": "07379690696",
+    "website": "https://capardequestrian.co.uk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.16,
+      51.68
+    ]
+  }
 }
   ]
 }
