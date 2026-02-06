@@ -15034,6 +15034,24 @@
     },
     {
       "type": "Feature",
+      "id": "wiveliscombe-country-feeds",
+      "properties": {
+        "name": "Wiveliscombe Country Feeds",
+        "area": "South West",
+        "postcode": "TA4 2RE",
+        "phone": "01984568396",
+        "website": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.30683,
+          51.042938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "wolds-pets",
       "properties": {
         "name": "Wolds Pets",
