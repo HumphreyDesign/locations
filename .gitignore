@@ -1,0 +1,5 @@
+# Only the geojson file is tracked in this repo.
+# Everything else is managed locally or via Webflow.
+*
+!.gitignore
+!saracen-locations-*.geojson
