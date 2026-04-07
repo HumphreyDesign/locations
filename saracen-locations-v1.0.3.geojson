@@ -15985,6 +15985,24 @@
       51.68
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "yandles-pet-equine",
+  "properties": {
+    "name": "Yandles Pet & Equine",
+    "area": "South West",
+    "postcode": "TA12 6JU",
+    "phone": "01935822207",
+    "website": "https://www.yandles.co.uk/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.77345,
+      50.96527
+    ]
+  }
 }
   ]
 }
