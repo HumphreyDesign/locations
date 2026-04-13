@@ -16003,6 +16003,24 @@
       50.96527
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "nuyard-beechcroft",
+  "properties": {
+    "name": "Nuyard Beechcroft",
+    "area": "Midlands & North Wales",
+    "postcode": "DY9 9XA",
+    "phone": "01562710358",
+    "website": "https://www.nuyardbeechcroft.co.uk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.145,
+      52.456
+    ]
+  }
 }
   ]
 }
