@@ -15220,8 +15220,7 @@
         "area": "South Wales",
         "postcode": "SA43 3AL",
         "phone": "(01239)810083",
-        "website": "https://www.wynnstayonline.co.uk",
-        "orderInOnly": true
+        "website": "https://www.wynnstayonline.co.uk"
       },
       "geometry": {
         "type": "Point",
