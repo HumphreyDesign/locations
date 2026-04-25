@@ -10948,24 +10948,6 @@
     },
     {
       "type": "Feature",
-      "id": "price-of-llandovery",
-      "properties": {
-        "name": "Price of Llandovery",
-        "area": "South Wales",
-        "postcode": "SA20 0LQ",
-        "phone": "(01550)720372",
-        "website": "http://www.myddfai.org/portfolio-item/price-of-llandovery-agricultural-pet-food-merchants/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.7855794,
-          51.989747
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "prince-farm-feeds",
       "properties": {
         "name": "Prince Farm Feeds",
@@ -16019,6 +16001,42 @@
     "coordinates": [
       -2.145,
       52.456
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "oxbutts-pet-stable",
+  "properties": {
+    "name": "Oxbutts Pet & Stable",
+    "area": "South West",
+    "postcode": "GL52 9HW",
+    "phone": "01242 675 726",
+    "website": "https://www.oxbuttspet.com"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.0556,
+      51.9339
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "the-feed-bin",
+  "properties": {
+    "name": "The Feed Bin",
+    "area": "South West",
+    "postcode": "GL51 8HE",
+    "phone": "7377661217",
+    "website": "https://www.thefeedbinchelt.com"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.096164,
+      51.901964
     ]
   }
 }
