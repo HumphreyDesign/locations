@@ -16039,6 +16039,22 @@
       51.901964
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "pink-pony-tack-shop",
+  "properties": {
+    "name": "Pink Pony Tack Shop",
+    "area": "South West",
+    "postcode": "BS20 6AE"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -2.7689,
+      51.4843
+    ]
+  }
 }
   ]
 }
