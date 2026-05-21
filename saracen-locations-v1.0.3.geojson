@@ -16055,6 +16055,24 @@
       51.4843
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "equi-lane",
+  "properties": {
+    "name": "Equi Lane",
+    "area": "South West",
+    "postcode": "EX31 3ZD",
+    "phone": "7770421400",
+    "website": "https://www.equilane.co.uk/"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -4.087687,
+      51.062071
+    ]
+  }
 }
   ]
 }
