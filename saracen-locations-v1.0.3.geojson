@@ -16073,6 +16073,24 @@
       51.062071
     ]
   }
+},
+{
+  "type": "Feature",
+  "id": "smiths-pet-foods",
+  "properties": {
+    "name": "Smith's Pet Foods",
+    "area": "South Wales",
+    "postcode": "SA6 6QW",
+    "phone": "01792 791172",
+    "website": "https://www.smithspetfoods.co.uk"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -3.912496729,
+      51.6800612367
+    ]
+  }
 }
   ]
 }
