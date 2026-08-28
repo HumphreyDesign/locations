@@ -764,15 +764,15 @@
       "properties": {
         "name": "Avon Animal Feeds",
         "area": "Midlands & North Wales",
-        "postcode": "B50 4HF",
-        "phone": "nan",
+        "postcode": "B49 6NQ",
+        "phone": "1789763159",
         "website": "https://avonanimalfeeds.co.uk"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.8663967,
-          52.176477
+          -1.796653,
+          52.20289
         ]
       }
     },
