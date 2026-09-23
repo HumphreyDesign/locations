@@ -17863,141 +17863,181 @@
     },
     {
       "type": "Feature",
-      "id": "sample-eu-dublin",
+      "id": "optifeed",
       "properties": {
-        "name": "SAMPLE — Dublin Equestrian",
-        "area": "Ireland",
-        "postcode": "D02 XY45",
-        "phone": "+353 1 234 5678",
-        "website": "https://example.ie",
-        "country": "Ireland",
+        "name": "Optifeed",
+        "area": "Poland",
+        "postcode": "59-225",
+        "phone": "48531927123",
+        "website": "http://www.optifeed.pl/",
+        "country": "Poland",
         "market": "EU"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -6.26031,
-          53.349805
+          15.9261092,
+          51.2693308
         ]
       }
     },
     {
       "type": "Feature",
-      "id": "sample-eu-cork",
+      "id": "the-horse-and-hound-tack-shop",
       "properties": {
-        "name": "SAMPLE — Cork Feed Co",
-        "area": "Ireland",
-        "postcode": "T12 AB34",
-        "phone": "+353 21 123 4567",
-        "website": "",
-        "country": "Ireland",
-        "market": "EU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.47562,
-          51.898514
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "sample-eu-paris",
-      "properties": {
-        "name": "SAMPLE — Paris Cheval",
-        "area": "France",
-        "postcode": "75001",
-        "phone": "+33 1 40 00 00 00",
-        "website": "https://example.fr",
-        "country": "France",
-        "market": "EU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.3522,
-          48.8566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "sample-eu-lyon",
-      "properties": {
-        "name": "SAMPLE — Lyon Ecurie",
-        "area": "France",
-        "postcode": "69001",
-        "phone": "+33 4 78 00 00 00",
-        "website": "",
-        "country": "France",
-        "market": "EU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8357,
-          45.764
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "sample-eu-amsterdam",
-      "properties": {
-        "name": "SAMPLE — Amsterdam Paardensport",
-        "area": "Netherlands",
-        "postcode": "1012 AB",
-        "phone": "+31 20 123 4567",
-        "website": "https://example.nl",
-        "country": "Netherlands",
-        "market": "EU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9041,
-          52.3676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "sample-eu-brussels",
-      "properties": {
-        "name": "SAMPLE — Brussels Cheval",
-        "area": "Belgium",
-        "postcode": "1000",
-        "phone": "+32 2 123 45 67",
-        "website": "",
-        "country": "Belgium",
-        "market": "EU"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3517,
-          50.8503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "sample-eu-berlin",
-      "properties": {
-        "name": "SAMPLE — Berlin Reitsport",
+        "name": "The Horse and Hound Tack Shop",
         "area": "Germany",
-        "postcode": "10117",
-        "phone": "+49 30 1234567",
-        "website": "https://example.de",
+        "postcode": "33100",
+        "phone": "49 5251 660 26",
+        "website": "https://www.horse-hound-tack-shop.de",
         "country": "Germany",
         "market": "EU"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          13.405,
-          52.52
+          8.7735879,
+          51.7170819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "pia-p",
+      "properties": {
+        "name": "Pia P AB",
+        "area": "Sweden",
+        "postcode": "247 70",
+        "phone": "0705-72.90.98",
+        "website": "https://saracen.se",
+        "country": "Sweden",
+        "market": "EU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3993403,
+          55.6057087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "gls-foder",
+      "properties": {
+        "name": "GLS Foder APS",
+        "area": "Denmark",
+        "postcode": "2765",
+        "phone": "45.4011.3531",
+        "website": "https://saracenhorsefeedsdanmark.dk/DK.aspx",
+        "country": "Denmark",
+        "market": "EU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.264329,
+          55.728778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "animal-royal",
+      "properties": {
+        "name": "Loovet/Animal Royal",
+        "area": "Belgium and France",
+        "postcode": "8647",
+        "phone": "32.475.78.30.04",
+        "website": "https://www.animalroyal.com/fr",
+        "country": "Belgium and France",
+        "market": "EU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.764407,
+          50.9822188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "yeswecare",
+      "properties": {
+        "name": "YesWeCare S.O.O",
+        "area": "Czech Republic",
+        "postcode": "141 00",
+        "phone": "420 722 772 783",
+        "website": "https://www.krmivosaracen.cz",
+        "country": "Czech Republic",
+        "market": "EU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4598856,
+          50.0467427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "novet",
+      "properties": {
+        "name": "Novet",
+        "area": "Croatia/Slovenia",
+        "postcode": "10431",
+        "phone": "385 99 231 7116",
+        "website": "https://novet.hr",
+        "country": "Croatia/Slovenia",
+        "market": "EU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.79818702,
+          45.80378271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "horse1",
+      "properties": {
+        "name": "Horse1",
+        "area": "Spain",
+        "postcode": "28918",
+        "phone": "34.916.126.502",
+        "website": "https://horse1.org/es/",
+        "country": "Spain",
+        "market": "EU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.797379722,
+          40.35255871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "dierentotaal",
+      "properties": {
+        "name": "Dierentotaal",
+        "area": "Netherlands",
+        "postcode": "5521",
+        "phone": "0031(0)497-513106",
+        "website": "https://www.dierentotaal.nl",
+        "country": "Netherlands",
+        "market": "EU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2916769,
+          51.3353973
         ]
       }
     }
