@@ -18040,6 +18040,106 @@
           51.3353973
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "firstvet",
+      "properties": {
+        "name": "Firstvet",
+        "area": "Qatar",
+        "postcode": "",
+        "phone": "97431177183",
+        "website": "https://firstvetqa.com",
+        "country": "Qatar",
+        "market": "ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.446539,
+          25.297044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "arabian-horse-veterinary",
+      "properties": {
+        "name": "Arabian Horse Veterinary",
+        "area": "Saudi",
+        "postcode": "",
+        "phone": "966560645001",
+        "website": "https://ahvhorsecare.com/en/",
+        "country": "Saudi",
+        "market": "ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.852438,
+          25.030588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "wadi-alkhayl",
+      "properties": {
+        "name": "Wadi Alkhayl",
+        "area": "Bahrain",
+        "postcode": "",
+        "phone": "97336685444",
+        "website": "",
+        "country": "Bahrain",
+        "market": "ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.49813,
+          26.05039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sahara-equestrian-sport",
+      "properties": {
+        "name": "Sahara Equestrian Sport",
+        "area": "Kuwait",
+        "postcode": "",
+        "phone": "96566666591",
+        "website": "https://ser.com.kw",
+        "country": "Kuwait",
+        "market": "ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.97085,
+          29.23988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "horse-racing-club",
+      "properties": {
+        "name": "Horse Racing Club",
+        "area": "Palestine",
+        "postcode": "",
+        "phone": "972586500032",
+        "website": "",
+        "country": "Palestine",
+        "market": "ME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.220571,
+          32.777291
+        ]
+      }
     }
   ]
 }
