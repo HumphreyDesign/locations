@@ -18140,6 +18140,26 @@
           32.777291
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "djm-pet-equestrian-supplies",
+      "properties": {
+        "name": "DJM Pet & Equestrian Supplies Ltd",
+        "area": "Scotland",
+        "postcode": "EH54 7BN",
+        "phone": "07803389973",
+        "website": "https://www.djmequestrian.co.uk/",
+        "country": "United Kingdom",
+        "market": "UK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.551756,
+          55.883475
+        ]
+      }
     }
   ]
 }
